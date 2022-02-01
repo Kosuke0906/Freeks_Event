@@ -30,7 +30,7 @@
     <img src="img/<%=src%>" width="500px">
   </div>
   <div>
-   <a href="http://localhost:8080/Omikuzi/">更新</a>
+   <a href="http://localhost:8080/Omikuzi/">送信</a>
   </div>
 </body>
 </html>
